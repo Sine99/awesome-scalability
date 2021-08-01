@@ -894,7 +894,6 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Architecture to Handle 80K RPS Celebrity Sales at Shopify - Simon Eskildsen, Engineering Lead at Shopify](https://www.youtube.com/watch?v=N8NWDHgWA28)
 * [Lessons of Scale at Facebook - Bobby Johnson, Director of Engineering at Facebook](https://www.youtube.com/watch?v=QCHiNEw73AU)
 * [Performance Optimization for the Greater China Region at Salesforce - Jeff Cheng, Enterprise Architect at Salesforce](https://www.salesforce.com/video/1757880/)
-* [How GIPHY Delivers a GIF to 300 Millions Users - Alex Hoang and Nima Khoshini, Services Engineers at GIPHY](https://vimeo.com/252367076)
 * [High Performance Packet Processing Platform at Alibaba - Haiyong Wang, Senior Director at Alibaba](https://www.youtube.com/watch?v=wzsxJqeVIhY&list=PLMu8-hpCxIVENuAue7bd0eCAglLGY_8AW&index=7)
 * [Solving Large-scale Data Center and Cloud Interconnection Problems -  Ihab Tarazi, CTO at Equinix](https://atscaleconference.com/videos/solving-large-scale-data-center-and-cloud-interconnection-problems/)
 * [Scaling Dropbox - Kevin Modzelewski, Back-end Engineer at Dropbox](https://www.youtube.com/watch?v=PE4gwstWhmc)
@@ -927,6 +926,9 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [The Art of Scalability](http://theartofscalability.com/)
 * [Web Scalability for Startup Engineers](https://www.goodreads.com/book/show/23615147-web-scalability-for-startup-engineers)
 * [Scalability Rules: 50 Principles for Scaling Web Sites](http://scalabilityrules.com/)
+
+## Extras
+* [How GIPHY Delivers a GIF to 300 Millions Users - Alex Hoang and Nima Khoshini, Services Engineers at GIPHY](https://vimeo.com/252367076)
 
 ## Donation
 Roses are red. Violets are blue. [Binh](https://nguyenquocbinh.org/) likes sweet. [Treat Binh a tiramisu?](https://paypal.me/binhnguyennus) :cake:
